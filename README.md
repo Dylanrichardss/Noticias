@@ -1,5 +1,5 @@
 # Noticias
-<b>App Python que busca 3 noticías do assunto que o usuário desejar.</b>
+<b>App Python que busca 3 notícias do assunto que o usuário desejar.</b>
 
 ## Demonstração
 
@@ -9,7 +9,7 @@ Ao iniciar o arquivo .py, o usuário poderá digitar um assunto, palavra ou fras
 
 
 
-O Script buscará 3 noticías mais recentes sobre o assunto que o usuário digitou.
+O Script buscará 3 notícias mais recentes sobre o assunto que o usuário digitou.
 Ele trará: Mídia que publicou a notícia, o título da matéria, a quanto tempo foi publicada, link da web e a descrição da reportagem. 
 O usuário poderá apertar Enter para repetir novas buscas.
 ![image](https://github.com/user-attachments/assets/feed0d06-e804-497d-bb52-3616473d453b)
